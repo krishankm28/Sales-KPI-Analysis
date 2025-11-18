@@ -59,8 +59,9 @@ It focuses on **KPI tracking**, **sales performance**, and **performance monitor
 
 #### INSIGHTS
 * Wholesale dominates: Generates the majority of total sales at 54.1%.
-* Distributor is significant: Contributes a substantial 31.3% to total sales.
-* Export is a smaller portion: Accounts for 14.6% of the total sales.
+* Distributor is significant: Contributes a substantial 31.6% to total sales.
+* Export is a smaller portion: Accounts for 14.3% of the total sales.
+* Growing Distributor and Export channels presents a clear opportunity to diversify and reduce reliance on Wholesale.
 
 ### Average Order Value
 <img src="charts_and_visuals/Distribution%20of%20Average%20Order%20Value.png" width="730">
@@ -68,38 +69,40 @@ It focuses on **KPI tracking**, **sales performance**, and **performance monitor
 #### INSIGHTS
 * Low average order values are frequent.
 * Distribution is right-skewed (long tail of high-value orders).
-* Multiple order value clusters exist.
+* Multiple clusters appear across the range, suggesting different customer segments or product categories..
 * Higher order values are not common.
 
 ### Top and Bottom 10 Customers by Revenue
 <img src="charts_and_visuals/Top%20and%20Bottom%2010%20Customers%20by%20Revenue.png" width="720">
 
 #### INSIGHTS
-* Aibox Company leads significantly as the top revenue generator.
+* Aibox Company leads significantly as the top revenue generator $12M.
 * Bottom 10 customers generate substantially low revenue (around $4-5M).
 * Revenue concentration: Top customers drive a disproportionate share.
-* Large gap: Exists between the revenue of top and bottom tier customers
+* Large gap Exists between the revenue of top and bottom tier customers
 
 ### Customer Segmentation: Revenue vs. Profit Margin
 <img src="charts_and_visuals/Customer%20Segmentation%20Revenue%20vsProfit%20Margin.png" width="500" height="380">
 
 #### INSIGHTS
-* Those Uniform 35–40 % margins confirm strong, consistent pricing and cost control.
-* > $10 M clients with <36 % margins reveal discounting hotspots—re evaluate large‑account terms.
-* $6–9 M clients with >40 % margins are high‑value candidates for targeted upsell.
+* Uniform 35–40 % margins confirm strong, consistent pricing and cost control.
+* Clients generating over $10M but holding margins below 36% suggest possible
+  discount-heavy accounts — ideal candidates for margin review or contract renegotiation.
+* Mid-revenue customers ($6M–$9M) with margins above 40% represent high-value, high-profit segments
+  for targeted upsell.
 
 ### Total Sales by Region
 <img src="charts_and_visuals/Total%20Sales%20by%20Region.png" width="680" height="480">
 
 #### INSIGHTS
-* West: Highest sales, strong market influence.
-* South: Major sales contributor, key market area.
+* West: Highest sales, strong market influence around ~$350M.
+* South: Major sales contributor, key market area ~$300M.
 * Midwest: Steady sales performance, moderate market size.
 * Northeast: Lowest sales, suggests need for deeper market understanding.
 
 ###  KEY INSIGHTS
 * Pronounced Seasonality: January revenues average $124 M, dipping to $95 M in April.
-* SKU Concentration: Products 26 & 25 together drive ~25 % of total sales.
+* SKU Concentration: Products 26 & 25 together drive ~20-23 % of total sales.
 * Channel Trade‑Off: Wholesale captures 54 % of volume; Export leads with ~38 % average margin.
 * Geographic Dominance: California alone logs 7.6K orders ($230 M); the West region shows the largest swings.
 * Aibox Company and State Ltd are the most valuable customers in terms of Revenue.
