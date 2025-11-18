@@ -27,8 +27,7 @@ It focuses on **KPI tracking**, **sales performance**, and **performance monitor
 #### INSIGHTS
 
 * Consistent sales cycle: $24M to $26M.
-* Seasonal peaks: Late spring/early summer (May-June).
-* Annual low: January.
+* Seasonal peaks: mid-year and late-year months..
 * Notable outlier: Sharp revenue drop in early 2024.
 
 ### Top Performing Products
@@ -50,10 +49,10 @@ It focuses on **KPI tracking**, **sales performance**, and **performance monitor
 
 
 #### INSIGHTS
-* California tops revenue & orders.
+* California tops revenue & orders $216.7M.
 * IL, FL, TX: High in both.
-* Revenue & orders linked.
-* Other top states: Lower contribution.
+* There is a direct correlation between order count and revenue across most states.
+* Massachusetts, Michigan, and Washington appear at the bottom in both, indicating small but steady markets with potential for growth..
 
 ### Sales Distribution Across Channels
 <img src="charts_and_visuals/Total%20Sales%20by%20Channel.png" width="380" height="380">
