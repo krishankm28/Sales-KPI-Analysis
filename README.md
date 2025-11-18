@@ -3,9 +3,9 @@ Sales teams often lack a clear, data-driven understanding of regional performanc
 This project aims to analyse and visualize regional sales data to uncover trends, evaluate profitability, and support strategic decision-making.
 
 **Objective**
-- Leverage 5 years of historical data to pinpoint growth levers and optimize strategy.
-- Analyze and visualize **sales KPIs** such as revenue, profit margin, and orders.  
-- Identify **top-performing states, channels, and customers** driving business growth.  
+- Leveraged 5 years of historical data to pinpoint growth levers and optimize strategy.
+- Analyzed and visualize **sales KPIs** such as revenue, profit margin, and orders.  
+- Identified **top-performing states, channels, and customers** driving business growth.  
 - Surface trend, outliers & relationships.
 
 ### PROJECT OVERVIEW
@@ -13,11 +13,11 @@ This project performs **end-to-end Exploratory Data Analysis (EDA)** using pytho
 It focuses on **KPI tracking**, **sales performance**, and **performance monitoring**.
 
 ### PROJECT WORKFLOW
-1. Define Objective and expected Outcomes.
-2. Gather multi-source sales data (Excel sheets) and understand schema.
+1. Defined Objective and expected Outcomes.
+2. Gathered multi-source sales data (Excel sheets) and understand schema.
 3. Data Collection and Cleaning - Imported the sales KPI dataset, dealt with missing values and dates, and removed duplicates.
-4. Load into Colab for initial profiling and data understanding using Python.
-5. Visualize trends, compare performance, and extract key insights.
+4. Loaded into Colab for initial profiling and data understanding using Python.
+5. Visualized trends, compare performance, and extract key insights.
 6. Build Power BI dashboard and present strategic findings.
 
 ### CHARTS AND VISUALS
